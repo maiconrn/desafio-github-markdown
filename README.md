@@ -59,6 +59,9 @@ Atualizar seu repositório local com o que está no GitHub:
 git pull origin main
 ```
 
+### 🤝 Contribuição Extra (Conta Secundária)
+* Alteração realizada com sucesso para testar o fluxo de Pull Request no desafio da DIO! 🚀
+
 
 
 
